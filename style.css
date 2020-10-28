@@ -1,0 +1,46 @@
+h1 {
+    text-align: center;
+    color: red;
+}
+h4 {
+    text-align: center;
+    color: red;
+}
+img {
+    width: auto;
+    margin-left: 330px;
+}
+body {
+    background-image: url(https://www.flagpictures.org/downloads/print/texas1.svg);
+    z-index: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.history {
+    width: 800px;
+    margin-left: 330px;
+}
+h5 {
+    text-align: center;
+    color: red;
+}
+p {
+    border: red 1px solid;
+    padding: 10px;
+    background-color: whitesmoke;
+}
+.funfacts {
+    width: 800px;
+    margin-left: 330px;
+}
+.form-group {
+    width: 800px;
+    margin-left: 330px;
+}
+label {
+    color: red;
+}
+.button1 {
+    margin-left: 655px;
+}
